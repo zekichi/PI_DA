@@ -75,4 +75,14 @@ En este proyecto se trabajo con diferentes herramientas para un analisis exahust
 
 Proporcionar información valiosa que ayude a las autoridades a implementar medidas efectivas para reducir las víctimas fatales en los siniestros viales.
 
+## ETL
+Se llevo a cabo un pequeño trabajo de preprocesamiento de datos para normalizar columnas y valores. Del Cual salieron los archivos para el EDA.
+
 ## EDA
+En el archivo EDA se análiso el conjunto de datos proveniente del ETL, en cual se le hizo tratamientos a valores atípicos o outliers. En este nuestro principal objetivo era la busqueda de patrones y tendencias en los conjuntos de datos, donde se encontraron insights valiosos para la creación de KPIs en PowerBI.
+
+## Dashboard PowerBI
+Se utilizo la herramienta de Microsoft, PowerBI, para la creación de un dashboard interactivo, para facilitar la vizualización de los datos. En este mismo se llevo a cabo la creación de KPIs para el análisis de la situación de los siniestros viales en la ciudad de Buenos Aires.
+
+## Adicionales
+Adicionalemente a laos conjuntos de datos que se nos proporcionaron, se hizo uso de un conjunto de datos que nos específicaba la cantidad de población por comuna de la Ciudad. Este conjunto de datos fue extraido de la página de base de datos de la Ciudad Autonoma de Buenos. [Link](https://data.buenosaires.gob.ar/dataset/estructura-demografica/resource/a24fc775-ad6e-4bb0-8a7a-2283c2adea34).
